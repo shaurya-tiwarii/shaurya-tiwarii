@@ -23,4 +23,4 @@ Final-year engineering student building full-stack and AI-powered systems. Curre
 
 ---
 
-*Currently seeking software engineering internships (Mumbai / Remote).*
+*Open to software engineering internships and entry-level roles — Mumbai / Remote.*
