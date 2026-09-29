@@ -34,9 +34,9 @@ Currently deep in **QueryPilot** and **AURA** — both in active development.
 
 ## Streak
 
-<p align="center">
+<!-- HIDDEN FOR NOW — restore when contribution activity grows <p align="center">
   <img src="https://streak-stats.demolab.com?user=shaurya-tiwarii&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+</p> -->
 
 ## Contributions
 
