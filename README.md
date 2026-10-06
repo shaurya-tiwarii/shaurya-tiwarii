@@ -17,17 +17,17 @@
 ## About me
 
 
-Final-year B.E. IT student building **full-stack and AI-powered systems**. I like taking things from a rough idea to something that actually runs — backends, databases, and the AI plumbing in between.
+Final-year B.E. IT student building **full-stack and AI-powered systems**. I like taking things from a rough idea to something that actually runs: backends, databases, and the AI plumbing in between.
 
 
-Currently deep in **QueryPilot** and **AURA** — both in active development.
+Right now I'm deep in **QueryPilot** and **AURA**, both in active development and both keeping me busy.
 
 
 ## What I am building
 
 
-- **[QueryPilot](https://github.com/shaurya-tiwarii/querypilot)** — natural-language SQL analytics. Ask a question in plain English, get SQL + results from Postgres. FastAPI + Gemini text-to-SQL with strict read-only guardrails *(MVP in progress)*.
-- **AURA — AI Unified Reach Assistant** — my major project: an AI search-visibility and content-intelligence platform for small businesses. Pipeline: crawl, recommend, generate, verify, publish, with human approval before anything goes live. *(Python/FastAPI + Next.js, in progress)*
+- **[QueryPilot](https://github.com/shaurya-tiwarii/querypilot)**, natural-language SQL analytics. Ask a question in plain English, get SQL + results from Postgres. FastAPI + Gemini text-to-SQL with strict read-only guardrails *(MVP in progress)*.
+- **AURA (AI Unified Reach Assistant)**, my major project: an AI search-visibility and content-intelligence platform for small businesses. The pipeline is crawl, recommend, generate, verify, publish, with human approval before anything goes live. *(Python/FastAPI + Next.js, in progress)*
 
 
 ## Stack
@@ -57,7 +57,7 @@ Currently deep in **QueryPilot** and **AURA** — both in active development.
 
 
 <p align="center">
-  <i>Open to software engineering internships and entry-level roles — Mumbai / Remote.</i>
+  <i>I'm open to software engineering internships and entry-level roles (Mumbai / Remote). My inbox is open.</i>
 </p>
 
 
